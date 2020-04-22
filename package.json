@@ -1,0 +1,23 @@
+{
+  "name": "mixanalyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianemcallister/mixAnalyzer.git"
+  },
+  "author": "Ian McAllister",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianemcallister/mixAnalyzer/issues"
+  },
+  "homepage": "https://github.com/ianemcallister/mixAnalyzer#readme",
+  "dependencies": {
+    "square-connect": "^3.20200325.0"
+  }
+}
